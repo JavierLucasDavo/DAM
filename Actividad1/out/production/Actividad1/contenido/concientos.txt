@@ -1,0 +1,11 @@
+grupo;lugar;fecha;hora
+sonata arctica;conciertos wizink center - madrid;viernes 04 octubre 2024;20:00 h.
+los chichos- hasta aqui� hemos llegado (2);conciertos wizink center - madrid;viernes 04 octubre 2024;20:45 h.
+la pegatina - hasta luego mari carmen;conciertos wizink center - madrid;sabado 05 octubre 2024;20:30 h.
+cepeda - contradiccion tour;conciertos wizink center - madrid;sabado 05 octubre 2024;21:00 h.
+rafa espino - 15 aniversario;conciertos wizink center - madrid;domingo 06 octubre 2024;19:00 h.
+melanie martinez - the trilogy tour;conciertos wizink center - madrid;lunes 07 octubre 2024;21:00 h.
+meute- empor 2024;conciertos wizink center - madrid;miercoles 09 octubre 2024;21:00 h.
+crush- octubre 2024;conciertos wizink center - madrid;jueves 10 octubre 2024;19:30 h.
+dabuti- octubre 2024;conciertos wizink center - madrid;viernes 11 octubre 2024;18:30 h.
+la casa azul;conciertos wizink center - madrid;viernes 11 octubre 2024;21:00 h.
